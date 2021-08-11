@@ -1,6 +1,7 @@
 #By Dachi Wolf
 
 git clone https://github.com/SexyWerewolf/easy-airodump-ng-scan.git
+
 cd easy-airodump-ng-scan
 
 Run: chmod +x wifi.sh && chmod +x tools.sh
